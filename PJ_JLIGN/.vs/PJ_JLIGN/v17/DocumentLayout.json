@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|c:\\users\\dell\\source\\repos\\pj_jlign\\pj_jlign\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|solutionrelative:pj_jlign\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|c:\\users\\dell\\source\\repos\\pj_jlign\\pj_jlign\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|solutionrelative:pj_jlign\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|c:\\users\\dell\\source\\repos\\pj_jlign\\pj_jlign\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|solutionrelative:pj_jlign\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|c:\\users\\dell\\source\\repos\\pj_jlign\\pj_jlign\\views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|solutionrelative:pj_jlign\\views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|c:\\users\\dell\\source\\repos\\pj_jlign\\pj_jlign\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|solutionrelative:pj_jlign\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|c:\\users\\dell\\source\\repos\\pj_jlign\\pj_jlign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|solutionrelative:pj_jlign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|c:\\users\\dell\\source\\repos\\pj_jlign\\pj_jlign\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49789D72-52BA-4A8C-923D-E4762AF7BDC5}|PJ_JLIGN\\PJ_JLIGN.csproj|solutionrelative:pj_jlign\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PJ_JLIGN\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PJ_JLIGN\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:22:33.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "PJ_JLIGN\\Views\\Acceso\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "PJ_JLIGN\\Views\\Acceso\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T21:14:13.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PJ_JLIGN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PJ_JLIGN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T19:55:10.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "PJ_JLIGN\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "PJ_JLIGN\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:46:04.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PJ_JLIGN\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PJ_JLIGN\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T22:10:48.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Program.cs",
+              "RelativeDocumentMoniker": "PJ_JLIGN\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Program.cs",
+              "RelativeToolTip": "PJ_JLIGN\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:32:11.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Views\\Acceso\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "PJ_JLIGN\\Views\\Acceso\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\PJ_JLIGN\\PJ_JLIGN\\Views\\Acceso\\Registrarse.cshtml",
+              "RelativeToolTip": "PJ_JLIGN\\Views\\Acceso\\Registrarse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T20:39:45.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
