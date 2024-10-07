@@ -1,0 +1,99 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advertencia - Sitio para Adultos</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            color: white;
+            text-align: center;
+            padding: 20px;
+
+
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 40px;
+            border: 1px solid #e8878a;
+            background-color: #e8878a;
+            border-radius: 10px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2rem;
+            line-height: 1.5;
+        }
+        .buttons {
+            margin-top: 20px;
+        }
+        .buttons a {
+            display: inline-block;
+            padding: 15px 30px;
+            margin: 10px;
+            font-size: 1rem;
+            font-weight: bold;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .buttons a.enter {
+                    padding: 10px 20px;
+                    background-color: #D9ABAB;
+                    color: white;
+                    border: none;
+                    border-radius: 5px;
+                    cursor: pointer;
+        }
+        .buttons a.exit {
+                    padding: 10px 20px;
+                    background-color: #D9ABAB;
+                    color: white;
+                    border: none;
+                    border-radius: 5px;
+                    cursor: pointer;
+        }
+        .buttons a:hover {
+            opacity: 0.9;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 0.9rem;
+        }
+        .footer a {
+            color: #FF9900;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>TutsiPop</h1>
+        <p>
+            Este sitio web contiene material restringido a menores de edad, que incluye desnudez y representaciones explícitas de actividad sexual. Al entrar, afirma que tiene por lo menos 18 años de edad o la mayoría de edad en la jurisdicción desde que está accediendo el sitio web y que da consentimiento en ver contenido sexualmente explícito.
+        </p>
+        <div class="buttons">
+            <a class="enter" asp-area="" asp-controller="Acceso" asp-action="Login"> Tengo 18 años o más - Entrar</a>
+            <a href="https://es.wikipedia.org/wiki/Iglesia_de_San_Ignacio_(Medell%C3%ADn)" class="exit">Soy menor de 18 años - Salir</a>
+        </div>
+        @* <div class="footer">
+        <p>Nuestra <a href="#">página de control parental</a> explica cómo bloquear fácilmente el acceso a este sitio.</p>
+        <p>&copy; Pornhub.com, 2024 <br> <img src="rta_logo.png" alt="RTA"></p>
+        </div> *@
+    </div>
+</body>
+</html>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PJ_JLIGN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c42202b40239d08eae858f079ec7b608d2bbd3e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PJ_JLIGN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PJ_JLIGN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

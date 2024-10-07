@@ -48,7 +48,11 @@ namespace PJ_JLIGN.Controllers
 
             return View();
         }
-
+        [HttpGet]
+        public IActionResult Alerta()
+        {
+            return View();
+        }
 
         [HttpGet]
         public IActionResult Login()
